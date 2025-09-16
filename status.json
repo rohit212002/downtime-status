@@ -1,4 +1,4 @@
 {
-  "isDown": false,
-  "message": "All systems operational"
+  "isDown": true,
+  "message": "Backend is under maintenance, vending machines will retry later."
 }
