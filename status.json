@@ -1,4 +1,4 @@
 {
-  "isDown": true,
-  "message": "Backend is under maintainance , vending machines will start soon."
+  "isDown": false,
+  "message": "Backend is ready , vending machines will start soon."
 }
