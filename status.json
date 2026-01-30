@@ -1,5 +1,5 @@
 {
-  "isDown": false,
-  "message": "Backend is ready , vending machines will start soon.",
+  "isDown": true,
+  "message": "Maintenance / Backend down. Please try again shortly.",
   "lastFailureAt": 1769766288893
 }
