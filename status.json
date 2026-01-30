@@ -1,4 +1,6 @@
 {
   "isDown": false,
-  "message": "Backend is ready , vending machines will start soon."
+  "message": "Backend is ready , vending machines will start soon.",
+  "lastFailureAt": null
+  
 }
